@@ -46,4 +46,5 @@ _npm install express_
 _npm install pug_
 _npm install ejs_
 _npm install express-handlebars_
+_npm install body-parser_
 ```
